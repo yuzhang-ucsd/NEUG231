@@ -1,5 +1,6 @@
 # NEUG231
 NEUG-PSYC-231-Fall2021: Tools for Experimental Data Analysis (in Python)
+
 Based on https://github.com/JohnSerences/NEUG-PSYC-231-Fall2021
 
 ## Topics (Draft)
