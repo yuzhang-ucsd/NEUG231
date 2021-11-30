@@ -3,7 +3,7 @@ NEUG-PSYC-231-Fall2021: Tools for Experimental Data Analysis (in Python)
 
 Based on https://github.com/JohnSerences/NEUG-PSYC-231-Fall2021
 
-## Topics (Draft)
+## Topics
 09.27.2021 Intro to Python (iPython), Jupyter Notebooks (environment, magics, markdown), intro to basics of the language
 
 10.4.2021 More on objects/data types, data structures, control flow, basic file I/O
